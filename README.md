@@ -2,7 +2,7 @@
 
 ![Orange Modern Elegant Fashion Newsletter Email Header](https://github.com/BrObando/BrObando/assets/147784169/de68b8d4-ceee-457b-8d67-eabe65157e06)
 
-
+[![Brianna's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrObando)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **BrObando/BrObando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
